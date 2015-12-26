@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListMe</string>
+    <string name="action_settings">Settings</string>
+    <color name="slytherin_green">#006633</color>
+</resources>
